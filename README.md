@@ -1,4 +1,4 @@
-#Road Trip Planner
+# Road Trip Planner
 This application is used to find the optimal route for a road trip the user is trying to go on.
 
 
