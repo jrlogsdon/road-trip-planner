@@ -1,5 +1,5 @@
 import requests
-import URLify
+import url_converter
 
 base_url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial"
 
@@ -12,7 +12,7 @@ def build_distance_url(origins, destinations, key):
 def urlifyList(list_of_strings):
     url = ""
     for string in list_of_strings:
-        url += URLify.URLIfy(string) + "|"
+        url += url_converter.string_to_url_format(string) + "|"
     return url[:-1]
 
 

@@ -1,15 +1,15 @@
 import unittest
-import URLify
+import url_converter
 
 class MyTestCase(unittest.TestCase):
     def test_spaces(self):
         s = "Mountain Valley"
-        res = URLify.URLIfy(s)
+        res = url_converter.string_to_url_format(s)
         self.assertEqual("Mountain%20Valley", res)
 
     def test_quotes(self):
         s = "\"Yosemite\""
-        res = URLify.URLIfy(s)
+        res = url_converter.string_to_url_format(s)
         self.assertEqual("%22Yosemite%22", res)
 
 

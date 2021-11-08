@@ -1,0 +1,42 @@
+{
+  "destination_addresses": [
+    "Sequoia National Park, California, USA"
+  ],
+  "origin_addresses": [
+    "Yosemite National Park, California, USA",
+    "Cincinnati, OH, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "138 mi",
+            "value": 222736
+          },
+          "duration": {
+            "text": "2 hours 36 mins",
+            "value": 9334
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "2,285 mi",
+            "value": 3676616
+          },
+          "duration": {
+            "text": "1 day 10 hours",
+            "value": 121362
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
