@@ -22,7 +22,7 @@ if len(locations) > 2:
     for i in range(1, len(order_to_visit_nodes) - 1):
         print("Then travel to ", order_to_visit_nodes[i])
 
-    print("Finally end at ", order_to_visit_nodes[len(order_to_visit_nodes) -1])
+    print("Finally end at ", order_to_visit_nodes[len(order_to_visit_nodes) - 1])
     # distance_matrix_csv_writer.write_csv(dest_matrix, "anotherone.csv")
 else:
     print("You did not specify enough locations for a road trip")
