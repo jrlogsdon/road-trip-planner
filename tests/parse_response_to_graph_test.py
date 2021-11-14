@@ -26,7 +26,7 @@ class MyTestCase(unittest.TestCase):
 
         with open('smaller_sample.json') as f:
             response = json.load(f)
-            actual_graph = parse_response_to_graph.get_graph(response)
+            actual_graph = parse_response_to_graph.create_graph(response)
 
         actual_node_cinci = actual_graph[cincinnati]
         actual_node_yosemite = actual_graph[yosemite]

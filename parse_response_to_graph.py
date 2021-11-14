@@ -4,7 +4,7 @@ import graphdestination
 
 # take in a response, as a json and convert it over to a graph
 # it should have a starting location as well as Destinations based off the destination object
-def get_graph(response):
+def create_graph(response):
     graph = {}
     origins = response['origin_addresses']
     destinations = response['destination_addresses']
