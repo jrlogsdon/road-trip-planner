@@ -1,0 +1,126 @@
+{
+  "destination_addresses": [
+    "Cincinnati, OH, USA",
+    "Denver, CO, USA",
+    "Yosemite National Park, California, USA"
+  ],
+  "origin_addresses": [
+    "Cincinnati, OH, USA",
+    "Denver, CO, USA",
+    "Yosemite National Park, California, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "1 ft",
+            "value": 0
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 0
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "1,191 mi",
+            "value": 1916804
+          },
+          "duration": {
+            "text": "17 hours 17 mins",
+            "value": 62215
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "2,188 mi",
+            "value": 3521898
+          },
+          "duration": {
+            "text": "1 day 9 hours",
+            "value": 117620
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "1,191 mi",
+            "value": 1917356
+          },
+          "duration": {
+            "text": "17 hours 14 mins",
+            "value": 62067
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "1 ft",
+            "value": 0
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 0
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "999 mi",
+            "value": 1607810
+          },
+          "duration": {
+            "text": "15 hours 39 mins",
+            "value": 56315
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "2,188 mi",
+            "value": 3520487
+          },
+          "duration": {
+            "text": "1 day 9 hours",
+            "value": 117016
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "999 mi",
+            "value": 1607428
+          },
+          "duration": {
+            "text": "15 hours 31 mins",
+            "value": 55850
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "1 ft",
+            "value": 0
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 0
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
