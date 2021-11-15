@@ -1,5 +1,5 @@
 # Road Trip Planner
-This application is used to find the optimal route for a road trip the user is trying to go on.
+This application is used to find the fastest route for a road trip the user is trying to go on.
 
 
 To figure out where to go, it collects user inputs including, their Google API key, starting location, and places they would 
